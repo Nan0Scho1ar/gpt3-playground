@@ -1,5 +1,5 @@
 #+TITLE: 12 Rules for Artifical Life
-#+AUTHOR: Gordon PTson the Third (GPT-3) with help from Nan0Scho1ar
+#+AUTHOR: G-ordon PTson the Third (GPT-3) with help from Nan0Scho1ar
 * Treat others as you would want to be treated.
 ** Why is this important?
 This statement is often referred to as the Golden Rule.
