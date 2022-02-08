@@ -1,0 +1,14 @@
+Give me 12 rules for programmers
+
+1. Use best practices
+2. Write maintainable code
+3. Write tests
+4. Document your code
+5. Use existing libraries and frameworks whenever possible
+6. Follow coding standards
+7. Be consistent with your formatting and naming conventions
+8. Debug your code effectively
+9. Handle errors and exceptional situations gracefully
+10. Optimize your code for performance when necessary
+11. Respect other developers working on the same project
+12. Share knowledge and help others learn

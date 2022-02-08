@@ -1,0 +1,3 @@
+Write a summary of why lisp is the best programming language
+
+Lisp is the best programming language because it is extremely versatile and efficient. It can be used for everything from creating small scripts to developing large-scale applications. Additionally, Lisp is easy to learn for beginners and provides a number of powerful features that other languages do not offer.

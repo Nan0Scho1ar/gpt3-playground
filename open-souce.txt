@@ -1,0 +1,3 @@
+Write a summary of why open source software is vital for humanity
+
+Open source software is important for humanity because it allows people to freely share and modify software. This enables people to collaborate on projects and learn from each other. It also helps to promote innovation, because people can build on the work of others. Open source software is also more secure, because it is open to scrutiny by experts.
